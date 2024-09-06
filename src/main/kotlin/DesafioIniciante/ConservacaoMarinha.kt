@@ -1,4 +1,4 @@
-package br.com.androidev
+package br.com.androidev.DesafioIniciante
 
 class ConservacaoMarinha(var tipoAmbiente: String, var areaProtegidaEmKm2: Double, var possuiProgramaMonitoramento: Boolean) {
 
